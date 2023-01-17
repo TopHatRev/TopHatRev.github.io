@@ -1,10 +1,36 @@
 # tophatrev.github.io
 
-This is a change.
+## Reading-notes
 
-This is a change.
+Hello my name is Dylan, I am a student learning to code, I enjoy cooking, music and technology.
 
-- List.
-- List.
+This is my reading notes for the full stack bootcamp where I became a wizard of code.
 
-More changes.
+### Growth Mindset
+
+Growth mindset is a way of thinking which enhances your capacity to learn, by taking challenges and obstacles in your stride rather than giving up or getting frustrated.
+
+#### How to keep a Growth Mindset
+
+> If you find yourself to be frustrated, remind yourself that every challenge is an opportunity to learn.
+
+> Set a routine for yourself and try your best to stick to in, routine can help relax your mind.
+
+> Remember that you aren't expected to know everything right away, questions and Google are your friend.
+
+### Using Markdown to style looks as follows:
+
+* An unordered list item.
+
+~~Strike through.~~
+
+*Italics*
+
+**Bold Italics**
+
+## Table of Contents
+
+[Portfolio](https://github.com/TopHatRev)
+
+
+[Class 2 Notes](https://tophatrev.github.io/Reading-notes/class-02)
